@@ -13,3 +13,6 @@
 [Servidores](./Servidores.md)
 [Video Juegos Pygame](./VideoJuegosPygame.md)
 [Visual Studio Code](./VisualStudio.md)
+[Scratch](./Scratch.md)
+EdiciónAudioYVideo.md
+ScreenCast.md
