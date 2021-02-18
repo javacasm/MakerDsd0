@@ -14,5 +14,11 @@
 [Video Juegos Pygame](./VideoJuegosPygame.md)
 [Visual Studio Code](./VisualStudio.md)
 [Scratch](./Scratch.md)
-EdiciónAudioYVideo.md
-ScreenCast.md
+[Edición de Audio Y Video](./EdiciónAudioYVideo.md)
+[ScreenCast](./ScreenCast.md)
+[Máquinas Virtuales](./MaquinasVirtuales.md)
+[Licencias libres]
+[Open Hardware]
+[Git y github]
+[Micropython]
+
