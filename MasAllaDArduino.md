@@ -53,5 +53,7 @@ También podemos añadir la librería directamente a las dependencias del ficher
 
 #### Recursos
 
+[Tutorial DroneBot](https://dronebotworkshop.com/platformio/)
+
 [Documentación](https://docs.platformio.org/en/latest/)
 
